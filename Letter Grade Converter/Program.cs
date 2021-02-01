@@ -15,7 +15,7 @@ namespace Letter_Grade_Converter
                 var grade = int.Parse(Console.ReadLine());
                 Console.WriteLine(LetterGrade(grade));
 
-                Console.Write("Continue? (y/n) ");
+                Console.Write("Continue? (y/n): ");
                 answer = Console.ReadLine();
             } while (answer == "y" || answer == "Y");
 

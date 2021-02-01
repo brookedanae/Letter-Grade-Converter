@@ -1,0 +1,13 @@
+C:\Users\Brooke\source\repos\Letter Grade Converter\Letter Grade Converter\obj\Debug\netcoreapp3.1\Letter Grade Converter.csprojAssemblyReference.cache
+C:\Users\Brooke\source\repos\Letter Grade Converter\Letter Grade Converter\obj\Debug\netcoreapp3.1\Letter Grade Converter.AssemblyInfoInputs.cache
+C:\Users\Brooke\source\repos\Letter Grade Converter\Letter Grade Converter\obj\Debug\netcoreapp3.1\Letter Grade Converter.AssemblyInfo.cs
+C:\Users\Brooke\source\repos\Letter Grade Converter\Letter Grade Converter\obj\Debug\netcoreapp3.1\Letter Grade Converter.csproj.CoreCompileInputs.cache
+C:\Users\Brooke\source\repos\Letter Grade Converter\Letter Grade Converter\bin\Debug\netcoreapp3.1\Letter Grade Converter.exe
+C:\Users\Brooke\source\repos\Letter Grade Converter\Letter Grade Converter\bin\Debug\netcoreapp3.1\Letter Grade Converter.deps.json
+C:\Users\Brooke\source\repos\Letter Grade Converter\Letter Grade Converter\bin\Debug\netcoreapp3.1\Letter Grade Converter.runtimeconfig.json
+C:\Users\Brooke\source\repos\Letter Grade Converter\Letter Grade Converter\bin\Debug\netcoreapp3.1\Letter Grade Converter.runtimeconfig.dev.json
+C:\Users\Brooke\source\repos\Letter Grade Converter\Letter Grade Converter\bin\Debug\netcoreapp3.1\Letter Grade Converter.dll
+C:\Users\Brooke\source\repos\Letter Grade Converter\Letter Grade Converter\bin\Debug\netcoreapp3.1\Letter Grade Converter.pdb
+C:\Users\Brooke\source\repos\Letter Grade Converter\Letter Grade Converter\obj\Debug\netcoreapp3.1\Letter Grade Converter.dll
+C:\Users\Brooke\source\repos\Letter Grade Converter\Letter Grade Converter\obj\Debug\netcoreapp3.1\Letter Grade Converter.pdb
+C:\Users\Brooke\source\repos\Letter Grade Converter\Letter Grade Converter\obj\Debug\netcoreapp3.1\Letter Grade Converter.genruntimeconfig.cache
